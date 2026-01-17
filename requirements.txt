@@ -1,0 +1,8 @@
+python-dotenv
+pyyaml
+pydantic
+numpy
+scikit-learn
+rich
+PyPDF2
+langdetect
