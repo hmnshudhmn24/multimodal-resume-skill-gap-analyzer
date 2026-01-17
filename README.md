@@ -1,10 +1,10 @@
-# 🧠 Multimodal Resume Skill Gap Analyzer
+# Multimodal Resume Skill Gap Analyzer
 
 A smart, end-to-end **AI-powered system** that analyzes **PDF resumes**, **GitHub text**, and **LinkedIn content** to identify **missing skills** and generate a **personalized learning roadmap** with prioritized skills and learning resources.
 
 Designed for **career growth, upskilling, and recruiter-facing portfolios**.
 
----
+
 
 ## 🚀 Key Features
 
@@ -19,7 +19,6 @@ Designed for **career growth, upskilling, and recruiter-facing portfolios**.
 - 📝 Report generation (Markdown)
 - 🔒 Fully local & privacy-friendly
 
----
 
 ## 🧠 System Pipeline
 
@@ -39,7 +38,7 @@ Skill Ranking
 Personalized Learning Roadmap
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -54,7 +53,7 @@ multimodal-resume-skill-gap-analyzer/
 └── README.md
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +63,7 @@ multimodal-resume-skill-gap-analyzer/
 - **Resume Parsing:** PyPDF2  
 - **Validation:** Pydantic  
 
----
+
 
 ## ⚙️ Installation
 
@@ -72,7 +71,7 @@ multimodal-resume-skill-gap-analyzer/
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Usage
 
@@ -80,7 +79,7 @@ pip install -r requirements.txt
 python scripts/run_demo.py
 ```
 
----
+
 
 ## 📊 Output
 
@@ -88,7 +87,7 @@ python scripts/run_demo.py
 - 📌 Prioritized list of missing skills
 - 🗺️ Clear learning roadmap for career growth
 
----
+
 
 ## 🎯 Use Cases
 
@@ -97,17 +96,3 @@ python scripts/run_demo.py
 - Career counselors & mentors
 - EdTech platforms
 
----
-
-## 🔮 Future Enhancements
-
-- Hugging Face embeddings
-- LLM-based roadmap generation
-- Gradio / FastAPI UI
-- PDF & HTML reports
-
----
-
-## 📜 License
-
-Apache License 2.0
